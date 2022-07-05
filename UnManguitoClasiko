@@ -13,7 +13,7 @@
             Text = 'Discord Server Copied To Your Clipboard';
             Duration = 14;
         })
-        setclipboard('https://discord.gg/e8bS6aaWNy')
+        setclipboard('https://discord.gg/dxnishop')
     end))
    wait(2)
 -- This file was generated using Luraph Obfuscator v13.5.3
