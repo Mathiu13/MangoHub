@@ -1,4 +1,10 @@
     game.StarterGui:SetCore("SendNotification", {
+        Title = 'WARNING';
+        Text = 'Do not use the Glide option that is in Fun Stuff or you will be banned from Da Hood Permanently';
+        Duration = 100;
+    })
+wait(5)
+    game.StarterGui:SetCore("SendNotification", {
         Title = 'MANGO Updated!';
         Text = 'FOR MORE INFORMATION DM Iamremi#0001|JosueProGamerYT#5503';
         Duration = 10;
@@ -7,13 +13,13 @@
     })
     wait(2)
     coroutine.resume(coroutine.create(function()
-        wait(10)
+        wait(7)
         game.StarterGui:SetCore("SendNotification", {
             Title = 'Join our discord server';
             Text = 'Discord Server Copied To Your Clipboard';
             Duration = 14;
         })
-        setclipboard('https://discord.gg/dxnishop')
+        setclipboard('https://discord.gg/xtkxl')
     end))
    wait(2)
 -- This file was generated using Luraph Obfuscator v13.5.3
