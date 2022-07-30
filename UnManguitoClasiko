@@ -1,6 +1,6 @@
     game.StarterGui:SetCore("SendNotification", {
         Title = 'Updated!';
-        Text = 'You are logged as '..game.Players.LocalPlayer.Name..'. Welcome :D';
+        Text = 'You are logged as '..game.Players.LocalPlayer.Name..'. Welcome :D XD';
         Duration = 10;
         Icon = 'http://www.roblox.com/asset/?id=9569991780'
     
